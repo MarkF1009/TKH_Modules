@@ -1,0 +1,9 @@
+﻿2a. Git is a version control system that helps developers track their code when pushing to github from the terminal. A tool best for managing changes to the code that was written, creates folders and files and that is where data is located depending on the project. Meaning if one project folder is based with data about what sneakers are coming out the files inside that folder is containing data that goes along with sneakers release date. Git is for creating and tracking data, also having the ability to make and combine branches. A Git branch is simply a lightweight movable pointer. The Git branch system are ways to maintain different versions of code at the same time. First branch is master which is the head of all the branches, where a new Git repo is being made. You can add branches that touch on different points throughout your code. Github is a website where developers use to place their code to be seen. A platform for software developers to collaborate.
+
+
+2b. We use the terminal to create folders and files directly to the computer. You can also see what is on your computer. Navigating from folder to folder to see what’s inside them also moving folders and files when necessary. The terminal is used to push whatever code you have to Github without being broken. The terminal makes it easy to push and pull code from and to Github. Creating files structures for any of your projects is what the terminal is best used for. 
+
+
+
+
+2c. Three benefits of version control is first managing any changes that needs to be done to the code. Second, it is a great tool for developers to collaborate with one another. Third is timing, meaning it doesn’t take up time when making any changes. Can be used to track changes in any set of files.
